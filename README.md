@@ -37,6 +37,10 @@
 <a href="https://telegram.me/TheBotsUpdate"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
+<p align="center">
+<a href="https://telegram.me/its_nobby_bot"><img src="https://img.shields.io/badge/-Contact%20Me-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+
 <h3 align="center">
     ─「 ᴄʀᴇᴅɪᴛs 」─
 </h3>
@@ -46,7 +50,6 @@
 <a href="https://github.com/pytgcalls/pytgcalls"> <img src="https://img.shields.io/badge/PyTgCalls-black?style=for-the-badge&logo=github" alt="Pytgcalls" /> </a>
 <a href="https://github.com/Callsmusic"> <img src="https://img.shields.io/badge/CallsMusic-black?style=for-the-badge&logo=github" alt="Callsmusic" /> </a>
 <a href="https://github.com/TheAnonymousX"> <img src="https://img.shields.io/badge/Anonymous-black?style=for-the-badge&logo=github" alt="Anonymous" /> </a>
-<a href="T.me/Its_nobby_bot"> <img src="https://img.shields.io/badge/Nobi-black?style=for-the-badge&logo=telegram" alt="Nobi" /> </a>
 <a href="https://github.com/TheHamkerCat"> <img src="https://img.shields.io/badge/TheHamkerCat-black?style=for-the-badge&logo=github" alt="TheHamkerCat" /> </a>
 </p>
 
