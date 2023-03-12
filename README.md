@@ -46,7 +46,7 @@
 <a href="https://github.com/pytgcalls/pytgcalls"> <img src="https://img.shields.io/badge/PyTgCalls-black?style=for-the-badge&logo=github" alt="Pytgcalls" /> </a>
 <a href="https://github.com/Callsmusic"> <img src="https://img.shields.io/badge/CallsMusic-black?style=for-the-badge&logo=github" alt="Callsmusic" /> </a>
 <a href="https://github.com/TheAnonymousX"> <img src="https://img.shields.io/badge/Anonymous-black?style=for-the-badge&logo=github" alt="Anonymous" /> </a>
-<a href="https://github.com/NotReallyShikhar"> <img src="https://img.shields.io/badge/Nobi-black?style=for-the-badge&logo=telegram" alt="Nobi" /> </a>
+<a href="tg://openmessage?user_id=5140509190"> <img src="https://img.shields.io/badge/Nobi-black?style=for-the-badge&logo=telegram" alt="Nobi" /> </a>
 <a href="https://github.com/TheHamkerCat"> <img src="https://img.shields.io/badge/TheHamkerCat-black?style=for-the-badge&logo=github" alt="TheHamkerCat" /> </a>
 </p>
 
