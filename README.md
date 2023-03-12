@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-<a href="https://telegram.me/its_nobby_bot"><img src="https://img.shields.io/badge/-Contact%20Me-pink.svg?style=for-the-badge&logo=Instagram"></a>
+<a href="https://telegram.me/its_nobby_bot"><img src="https://img.shields.io/badge/-Contact%20Me-blue.svg?style=for-the-badge&logo=Snapchat"></a>
 </p>
 
 <h3 align="center">
